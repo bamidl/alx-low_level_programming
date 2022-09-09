@@ -1,1 +1,1 @@
-betty
+Hello world for c programming
