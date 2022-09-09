@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- * main - This is the main function
+ * main - Entry point
  *
- * Return: This will return (0) is successful
+ * Return: Always 0 (Success)
  */
 
 int main(void)
+
 {
 	return (0);
 }
